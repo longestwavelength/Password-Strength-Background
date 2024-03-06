@@ -23,3 +23,7 @@ body {
     z-index: -1;
     filter: blur(20px);
 }
+
+#sign:active {
+    transform: translateY(0.5px);
+}
